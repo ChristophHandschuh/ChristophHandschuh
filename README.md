@@ -23,8 +23,3 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&style=flat-square)
 ![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache&style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&style=flat-square)
-
-## 🤝🏻 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisslmarkus/)
-[![Twitter](https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/markusnissl)
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/markus.nissl/)
