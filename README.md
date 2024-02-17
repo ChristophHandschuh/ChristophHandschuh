@@ -6,7 +6,7 @@
 
 ## 🛠 Tech Stack
 
-![Cpp]([https://img.shields.io/badge/C++?&logo=HTML5&style=flat-square)
+![C++](https://img.shields.io/badge/-C-000?&logo=HTML5&style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5&style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&style=flat-square)
 ![TailwindCss](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS&style=flat-square)
