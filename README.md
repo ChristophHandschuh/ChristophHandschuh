@@ -13,18 +13,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&style=flat-square)
 ![Prettier](https://img.shields.io/badge/-Prettier-000?&logo=Prettier&style=flat-square)
 ![Php](https://img.shields.io/badge/-PHP-000?&logo=PHP&style=flat-square)
-![Nodejs](https://img.shields.io/badge/-Nestjs-000?&logo=Nodejs&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&style=flat-square)
 ![Graphql](https://img.shields.io/badge/-Graphql-000?&logo=Graphql&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=FFFFFF&style=flat-square)
-![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=Apache%20Kafka&style=flat-square)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ&style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&style=flat-square)
-![NGINX](https://img.shields.io/badge/-NGINX-000?&logo=NGINX&style=flat-square)
-![NX](https://img.shields.io/badge/-NX-000?&logo=NX&style=flat-square)
 ![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache&style=flat-square)
 
 ## 🤝🏻 Connect with me
