@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christoph Handschuh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
+Hello! Welcome to my GitHub profile. I'm Christoph Handschuh, a student at the Technical Department Hollabrunn. I have a passion for both embedded programming, which I learned in school, and web development, which I pursue in my free time.
 <p align="left">
 </p>
 
